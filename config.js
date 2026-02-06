@@ -1,0 +1,23 @@
+export const nameBand = 'NOISETTES';
+export const nameSongs = [
+  'NEVER FORGET YOU - UNDERWATER VERSION' /*1*/,
+  'WINNER' /*2*/,
+  'NEVER FORGET YOU - (SLOWED)' /*3*/,
+  'EVERY NOW AND THEN' /*4*/,
+  "DON'T UPSET THE RHYTHM (GO BABY GO)" /*5*/,
+  'THE COUNT OF MONTE CHRISTO' /*6*/,
+  'THAT GIRL' /*7*/,
+  'WILD YOUNG HEARTS' /*8*/,
+  'SISTER ROSA' /*9*/,
+  'SO COMPLICATED' /*10*/,
+  "DON'T GIVE UP" /*11*/,
+  'SIGNS' /*12*/,
+  'BRIDGE TO CANADA' /*13*/,
+  "I'VE GOT YOU UNDER MY SKIN" /*14*/,
+  'NEVER FALL IN LOVE AGAIN' /*15*/,
+  '24 HOURS' /*16*/,
+  'BEAT OF MY HEART' /*17*/,
+  'SATURDAY NIGHT' /*18*/,
+  'EXPRESS YOURSELF' /*19*/,
+  'CHEAP KICKS' /*20*/
+];
